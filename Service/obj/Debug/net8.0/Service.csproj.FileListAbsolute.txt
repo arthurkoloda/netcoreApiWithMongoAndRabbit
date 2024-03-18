@@ -1,0 +1,17 @@
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Database.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Service.Interface.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Database.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\bin\Debug\net8.0\Service.Interface.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Service\obj\Debug\net8.0\ref\Service.dll

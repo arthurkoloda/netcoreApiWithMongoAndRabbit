@@ -1,0 +1,32 @@
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\appsettings.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Exemplo de API Net Core com MongoDB.exe
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Exemplo de API Net Core com MongoDB.deps.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Exemplo de API Net Core com MongoDB.runtimeconfig.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Exemplo de API Net Core com MongoDB.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Exemplo de API Net Core com MongoDB.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets\msbuild.Exemplo de API Net Core com MongoDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets\msbuild.build.Exemplo de API Net Core com MongoDB.props
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exemplo de API Net Core com MongoDB.props
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Exemplo de API Net Core com MongoDB.props
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\scopedcss\bundle\Exemplo de API Net Core com MongoDB.styles.css
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo .D2539349.Up2Date
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\refint\Exemplo de API Net Core com MongoDB.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\Exemplo de API Net Core com MongoDB.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Exemplo de API Net Core com MongoDB\obj\Release\net8.0\ref\Exemplo de API Net Core com MongoDB.dll

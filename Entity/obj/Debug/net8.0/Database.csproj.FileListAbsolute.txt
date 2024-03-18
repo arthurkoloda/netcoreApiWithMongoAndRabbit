@@ -1,0 +1,12 @@
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\bin\Debug\net8.0\Database.deps.json
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\bin\Debug\net8.0\Database.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\bin\Debug\net8.0\Database.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\Database.pdb
+C:\Users\Arthur\Desktop\APINetCoreMongo\Exemplo de API Net Core com MongoDB\Entity\obj\Debug\net8.0\ref\Database.dll

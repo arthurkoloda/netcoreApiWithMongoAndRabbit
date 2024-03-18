@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Exemplo de API Net Core com MongoDB.props" />
+</Project>

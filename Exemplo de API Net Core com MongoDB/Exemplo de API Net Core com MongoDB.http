@@ -1,0 +1,6 @@
+@Exemplo_de_API_Net_Core_com_MongoDB_HostAddress = http://localhost:5216
+
+GET {{Exemplo_de_API_Net_Core_com_MongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

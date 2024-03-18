@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.ClienteController">
+            <summary>
+            Controlador responsável pelas operações envolvendo clientes
+            </summary>
+        </member>
+        <member name="M:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.ClienteController.Post_ImportarExcel(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Realiza a importação de um arquivo Excel contendo as informações dos clientes
+            </summary>
+        </member>
+        <member name="M:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.ClienteController.Get_Documentos">
+            <summary>
+            Retorna os documentos que foram importados no sistema, bem como suas informações
+            </summary>
+        </member>
+        <member name="M:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.ClienteController.Get_DocumentosPendentes">
+            <summary>
+            Retorna os documentos que ainda estão pendentes de processamento ou sendo processados
+            </summary>
+        </member>
+        <member name="M:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.ClienteController.Get_DocumentosProcessados">
+            <summary>
+            Retorna os documentos que já foram processados pelo sistema, independente do resultado do processamento
+            </summary>
+        </member>
+        <member name="T:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.SegurancaController">
+            <summary>
+            Controlador responsável pelas operações relacionadas com a segunrança da aplicação
+            </summary>
+        </member>
+        <member name="M:Exemplo_de_API_Net_Core_com_MongoDB.Controllers.SegurancaController.Login(Domain.Models.LoginRequest)">
+            <summary>
+            Gera um novo Token para acesso ao sistema caso login e senha estejam corretos
+            </summary>
+            <param name="login"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
